@@ -1,0 +1,2 @@
+# datasset
+This dataset is from https://www.lendingclub.com/info/download-data.action. These files contain complete loan data for all loans issued through the time period stated, including the current loan status (Current, Late, Fully Paid, etc.) and latest payment information. The file containing loan data through the "present" contains complete loan data for all loans issued through the previous completed calendar quarter. 
